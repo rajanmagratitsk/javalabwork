@@ -11,6 +11,7 @@ public class Hello {
        
         n2=sc.next();
         System.out.println("together:"+n1.concat(n2));
+        System.out.println("done");
     }
     
 }
